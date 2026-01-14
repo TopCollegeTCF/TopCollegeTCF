@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![🌟 Готовый проект 🌟](https://github.com/stupiqplonde/SmartHome)]
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/GitHub-Team-blue?style=for-the-badge&logo=github)
 ![HTML5](https://img.shields.io/badge/HTML5-Only-orange?style=for-the-badge&logo=html5)
